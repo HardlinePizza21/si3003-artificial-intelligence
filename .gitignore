@@ -16,6 +16,7 @@
 data/
 checkpoints/
 runs/
+/notebooks/lecture2/degrees/large
 
 # Thumbs
 Thumbs.db

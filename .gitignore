@@ -21,3 +21,5 @@ runs/
 # Thumbs
 Thumbs.db
 .venv
+.env
+.deepeval/
